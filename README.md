@@ -27,7 +27,7 @@ This project focuses on the development of an efficient drug delivery system usi
 ## Visuals
 Here are some key figures and visuals that highlight the findings and results of the project:
 
-### [Single chain polymer interaction with each drug and 6 polymer chain with each drug] [pictures of simulation.pptx]
+### [Single chain polymer interaction with each drug and 6 polymer chain interactions with each drug] [pictures of simulation.pptx]
 
 ## Acknowledgements
 Special thanks to my thesis advisor and peers for their guidance and support throughout the project. The project was conducted with the aim of contributing to the field of drug delivery systems and their improvement using computational methods.
