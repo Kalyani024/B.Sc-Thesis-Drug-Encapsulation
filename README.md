@@ -29,8 +29,5 @@ Here are some key figures and visuals that highlight the findings and results of
 
 ### [Single chain polymer interaction with each drug and 6 polymer chain with each drug] [pictures of simulation.pptx]
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 Special thanks to my thesis advisor and peers for their guidance and support throughout the project. The project was conducted with the aim of contributing to the field of drug delivery systems and their improvement using computational methods.
