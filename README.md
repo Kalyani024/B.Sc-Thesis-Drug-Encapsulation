@@ -27,7 +27,7 @@ This project focuses on the development of an efficient drug delivery system usi
 ## Visuals
 Here are some key figures and visuals that highlight the findings and results of the project:
 
-### 
+### [Single chain polymer interaction with each drug and 6 polymer chain with each drug] [pictures of simulation.pptx]
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
